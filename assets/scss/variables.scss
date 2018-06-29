@@ -1,0 +1,63 @@
+//color
+$red: #d1414a;
+$darkgreen: #3b8962;
+$midgreen: #54ab80;
+$green: #70c99d;
+$darkgrey: #3c4457;
+$darkgreyX: #2e3545;
+$midgrey: #9ba2aa;
+$bg: #f6f6f6;
+$bluegrey: #e2e5ec;
+$solidgrey: #cccccc;
+$yellow: #f5a623;
+$blue: #3994dd;
+
+
+@font-face {
+  font-family: 'Priva';
+  src: url("../font/PrivaOnePro.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Priva';
+  src: url("../font/PrivaTwoPro.otf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Priva';
+  src: url("../font/PrivaThreePro.otf");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Priva';
+  src: url("../font/PrivaFourPro.otf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url("../font/HelveticaNeue-Regular.otf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url("../font/HelveticaNeue-Medium.otf");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url("../font/HelveticaNeue-Bold.otf");
+    font-weight: 600;
+    font-style: normal;
+}
